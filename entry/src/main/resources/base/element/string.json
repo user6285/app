@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "GT4 Fire"
+    },
+    {
+      "name": "module_desc",
+      "value": "Gesture sound demo"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Main ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "GT4 Fire"
+    }
+  ]
+}
