@@ -1,0 +1,8 @@
+export const Config = {
+  SAMPLE_INTERVAL_MS: 40, // ~25Hz
+  FIRE_THRESHOLD: 18.0,
+  DROP_THRESHOLD: 11.0,
+  WINDOW_MS: 150,
+  COOLDOWN_MS: 600,
+  MOVING_AVG_SIZE: 4,
+};
